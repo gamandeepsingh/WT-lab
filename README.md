@@ -1,9 +1,4 @@
 
-# Find Your Vibe
-
-Find your vibe-event listing web application
-
-
 ## Demo
 
 USER:https://event-listing-portal-user.vercel.app
